@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="activity_name">Dice_Roller</string>
+    <string name="game_title">DICE ROLLER !!</string>
+    <string name="tap_button">TAP TO ROLL</string>
+    <string name="output" />
+</resources>
